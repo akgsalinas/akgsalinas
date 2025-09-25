@@ -25,7 +25,7 @@ I’m currently looking for opportunities where I can apply my hybrid profile in
 
 ## 📂 Featured Projects
 
-- [📊 Zuber — Weather Impact on Ride-Sharing](https://github.com/tu-user/zuber-project)  
+- [📊 Zuber — Weather Impact on Ride-Sharing](https://github.com/akgsalinas/zuber-analysis)  
   Regression project analyzing how weather affects ride demand in Chicago using Python and scikit-learn.
 
 - [🔍 Beta Bank — Churn Prediction Model](https://github.com/tu-user/betabank-churn)  
