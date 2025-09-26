@@ -31,7 +31,7 @@ I’m currently looking for opportunities where I can apply my hybrid profile in
 - [🔍 Beta Bank — Churn Prediction Model](https://github.com/tu-user/betabank-churn)  
   Classification model predicting customer churn using logistic regression and decision trees.
 
-- [🏭 Gold Recovery — Predicting Industrial Efficiency](https://github.com/tu-user/gold-recovery)  
+- [🏭 Gold Recovery — Predicting Industrial Efficiency](https://github.com/akgsalinas/gold-recovery)  
   Predictive modeling of gold recovery rates in an industrial process using Random Forest and data cleaning techniques.
 
 > *Full list of projects in pinned repositories.*
