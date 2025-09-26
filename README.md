@@ -28,7 +28,7 @@ I’m currently looking for opportunities where I can apply my hybrid profile in
 - [📊 Zuber — Weather Impact on Ride-Sharing](https://github.com/akgsalinas/zuber-analysis)  
   Regression project analyzing how weather affects ride demand in Chicago using Python and scikit-learn.
 
-- [🔍 Beta Bank — Churn Prediction Model](https://github.com/tu-user/betabank-churn)  
+- [🔍 Beta Bank — Churn Prediction Model](https://github.com/tu-user/betabank-churn)  (PENDING)
   Classification model predicting customer churn using logistic regression and decision trees.
 
 - [🏭 Gold Recovery — Predicting Industrial Efficiency](https://github.com/akgsalinas/gold-recovery)  
